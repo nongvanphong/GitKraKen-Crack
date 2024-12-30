@@ -19,11 +19,11 @@ GitKraKen8.2.0-9.x
 - yarn install
 - yarn build
 - yarn gitcracken patcher
-### npm
+### npm 
 - cd GitKraKen-Crack
 - npm install
 - npm run build
-- npm run gitcracken patcher
+- npm run gitcracken patcher || (if unbutu then use sudo npm run gitcracken patcher)
 
 
 
